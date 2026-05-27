@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Video/MAX453:MAX453",
+  "name": "MAX453",
+  "library": "Amplifier_Video",
+  "file": "Amplifier_Video.kicad_symdir/MAX453.kicad_sym",
+  "description": "CMOS video amplifier with input multiplexer, DIP-8/SOIC-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX452-MAX455.pdf",
+  "keywords": "amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-video@master/parts/MAX453/",
+  "part_path": "parts/MAX453",
+  "symbol_file": "parts/MAX453/MAX453.kicad_sym",
+  "source_library": "Amplifier_Video.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:21:58.960Z"
+}

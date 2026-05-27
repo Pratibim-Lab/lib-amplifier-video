@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Video/THS7374:THS7374",
+  "name": "THS7374",
+  "library": "Amplifier_Video",
+  "file": "Amplifier_Video.kicad_symdir/THS7374.kicad_sym",
+  "description": "4 channel SDTV Video Amplifier, TSSOP-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ths7374.pdf",
+  "keywords": "video amplifier sdtv cvbs rgb ypbpr",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-video@master/parts/THS7374/",
+  "part_path": "parts/THS7374",
+  "symbol_file": "parts/THS7374/THS7374.kicad_sym",
+  "source_library": "Amplifier_Video.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:21:59.942Z"
+}
